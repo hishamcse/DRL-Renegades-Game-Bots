@@ -2,8 +2,8 @@
 
 | **Environments**                       | **Libraries Used(includes HF)**                                       | **Algos**                    | **Kaggle Notebooks** |
 |----------------------------------------|-----------------------------------------------------------------------|------------------------------|----------------------|
-| LunarLander-v2                         | gym, stable-baselines3                                                | PPO                          |                      |
-| LunarLander-v2                         | gym                                                                   | DQN(Scratch)                 |                      |
+| LunarLander-v2                         | gym, stable-baselines3                                                | PPO                          | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-huggingface-unit-1-lunarlander)                     |
+| LunarLander-v2                         | gym                                                                   | DQN(Scratch)                 | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-huggingface-unit-1-lunarlander)                     |
 | Huggy                                  | unity-mlagents                                                        | PPO                          |                      |
 | FrozenLake-v1 (all variants)           | gym                                                                   | Q-Learn (Scratch)            |                      |
 | Taxi-v3                                | gym                                                                   | Q-Learn (Scratch)            |                      |
