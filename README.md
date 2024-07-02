@@ -1,5 +1,21 @@
 # DRL-Renegades-Game-Bots
 
+A collection of my implemented RL agents for games like Pacman, Lunarlander, Pong, SpaceInvaders, Frozenlake, Taxi, Pixelcopter, Montezuma, Soccer, VizDoom and a lot more by implementing various DRL algorithms using gym, unity-ml, pygame, sb3, rl-zoo, pandagym and sample factory libraries.
+
+## Covered DRL Topics
+  * Q-learning + DQN
+  * Hyperparameter Tuning using Optuna
+  * Policy Gradient
+  * Unity Ml Agents
+  * RND
+  * A2C for Robotics
+  * MultiAgent Reinforcement Learning
+  * Self Play
+  * PPO
+  * Sample Factory
+
+## Table of Implemented Agents With Algorithms & Libraries
+
 | **Environments**                       | **Libraries Used(includes HF)**                                       | **Algos**                    | **Kaggle Notebooks** |
 |----------------------------------------|-----------------------------------------------------------------------|------------------------------|----------------------|
 | LunarLander-v2                         | gym, stable-baselines3                                                | PPO                          | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-huggingface-unit-1-lunarlander)                     |
