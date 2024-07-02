@@ -14,7 +14,7 @@ A collection of my implemented RL agents for games like Pacman, Lunarlander, Pon
   * PPO
   * Sample Factory
 
-## Table of Implemented Agents With Algorithms & Libraries
+## Table of Implemented Agents With Algorithms & Notebooks
 
 | **Environments**                       | **Libraries Used(includes HF)**                                       | **Algos**                    | **Kaggle Notebooks** |
 |----------------------------------------|-----------------------------------------------------------------------|------------------------------|----------------------|
