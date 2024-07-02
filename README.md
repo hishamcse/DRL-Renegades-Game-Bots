@@ -71,3 +71,4 @@ A collection of my implemented RL agents for games like Pacman, Lunarlander, Pon
    * [Arthur Juliani Simple Reinforcement Learning in Tensorflow Series](https://awjuliani.medium.com/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
    * [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
    * [Dennybritz RL](https://github.com/dennybritz/reinforcement-learning)
+   * [HuggingFace Hub Python Library](https://huggingface.co/docs/huggingface_hub/index)
