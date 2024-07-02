@@ -1,6 +1,6 @@
 # DRL-Renegades-Game-Bots
 
-A collection of my implemented RL agents for games like Pacman, Lunarlander, Pong, SpaceInvaders, Frozenlake, Taxi, Pixelcopter, Montezuma, Soccer, VizDoom and a lot more by implementing various DRL algorithms using gym, unity-ml, pygame, sb3, rl-zoo, pandagym and sample factory libraries. A lot of agents implemented as part of this free course on DRL at HuggingFace: [Link](https://huggingface.co/learn/deep-rl-course/unit0/introduction) by [Thomas Simonini](https://x.com/ThomasSimonini?mx=2)
+A collection of my implemented RL agents for games like Pacman, Lunarlander, Pong, SpaceInvaders, Frozenlake, Taxi, Pixelcopter, Montezuma, Soccer, VizDoom and a lot more by implementing various DRL algorithms using gym, unity-ml, pygame, sb3, rl-zoo, pandagym and sample factory libraries. A lot of agents implemented as part of this free course on DRL at HuggingFace: [Link](https://huggingface.co/learn/deep-rl-course/unit0/introduction) by [Thomas Simonini](https://x.com/ThomasSimonini)
 
 ## Covered DRL Topics
   * Q-learning + DQN
@@ -43,5 +43,31 @@ A collection of my implemented RL agents for games like Pacman, Lunarlander, Pon
 | VizDoom (doom_health_gathering_supreme)| sample_factory                                                        | PPO                          | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-huggingface-unit-8-ii-smpfc-vizdoom-deathmatch)                     |
 | Doom Deathmatch (doom_deathmatch_bots) | sample_factory                                                        | APPO                         | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-huggingface-unit-8-ii-smpfc-vizdoom-deathmatch)                     |
 
-## Acknowledgements
-   *  
+## Acknowledgements & Resources
+   * [Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+   * [Thomas Simonini](https://x.com/ThomasSimonini)
+   * [Deep RL Course Leaderboard - HuggingFace](https://huggingface.co/spaces/huggingface-projects/Deep-Reinforcement-Learning-Leaderboard)
+   * [Open RL Leaderboard - HuggingFace](https://huggingface.co/spaces/open-rl-leaderboard/leaderboard)
+   * [Stable-Baseline3 Agents - HuggingFace](https://huggingface.co/sb3)
+   * [Stable-Baseline3](https://stable-baselines3.readthedocs.io/en/master/)
+   * [PPO-RND for Montezuma & Mario](https://github.com/alirezakazemipour/PPO-RND/tree/main)
+   * [RND - Random Network Distillation](https://medium.com/data-from-the-trenches/curiosity-driven-learning-through-random-network-distillation-488ffd8e5938)
+   * [All PPO Implementation Details](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/)
+   * [CleanRL Single File Implementations](https://docs.cleanrl.dev/)
+   * [Unity-mlagents](https://github.com/Unity-Technologies/ml-agents)
+   * [Coursera Machine Learning Specialization Course 3 by Andrew Ng](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+   * [gym](https://www.gymlibrary.dev/index.html)
+   * [Sample_Factory](https://www.samplefactory.dev/)
+   * [RL-Zoo3](https://stable-baselines3.readthedocs.io/en/master/guide/rl_zoo.html)
+   * [Panda-gym](https://panda-gym.readthedocs.io/en/latest/)
+   * [Tools for Robotic RL](https://github.com/araffin/tools-for-robotic-rl-icra2022)
+   * [Optuna](https://github.com/optuna/optuna)
+   * [QRDQN - Quantile Regression DQN](https://advancedoracademy.medium.com/quantile-regression-dqn-pushing-the-boundaries-of-value-distribution-approximation-in-620af75ec5f3)
+   * [Advanced DQN Pacman](https://github.com/jakegrigsby/AdvancedPacmanDQNs), [DQN Pacman](https://github.com/StarVeteran/Ms-Pacman-DQN)
+   * [All Policy Gradient Algorithms Implementations](https://github.com/MrSyee/pg-is-all-you-need)
+   * [DDPGfD - DDPG from Demonstrations](https://wikidocs.net/204469)
+   * [Deep RL Paradise](https://github.com/alirezakazemipour/DeepRL-Paradise)
+   * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
+   * [Arthur Juliani Simple Reinforcement Learning in Tensorflow Series](https://awjuliani.medium.com/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+   * [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
+   * [Dennybritz RL](https://github.com/dennybritz/reinforcement-learning)
