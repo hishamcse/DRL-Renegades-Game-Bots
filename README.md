@@ -11,9 +11,10 @@ A collection of my implemented RL agents for games like Pacman, Lunarlander, Pon
   * Unity Ml Agents
   * Curiosity Driven RL - Random Network Distillation(RND)
   * Advantage Actor Critic(A2C) for Robotics
-  * MultiAgent Reinforcement Learning
+  * MultiAgent Reinforcement Learning(MARL)
   * Self Play
   * Proximal Policy Optimization(PPO) with All Variants
+  * Clipped Surrogate Objective Function
   * Sample Factory
 
 ## Table of Implemented Agents With Algorithms & Notebooks
