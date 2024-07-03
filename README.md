@@ -17,7 +17,7 @@ A collection of my implemented RL agents for games like Pacman, Lunarlander, Pon
   * Clipped Surrogate Objective Function
   * Sample Factory
 
-## Table of Implemented Agents With Algorithms & Notebooks
+## Table of Implemented Agents
 
 | **Environments**                       | **Libraries Used(includes HF)**                                       | **Algos**                    | **Kaggle Notebooks** |
 |----------------------------------------|-----------------------------------------------------------------------|------------------------------|----------------------|
