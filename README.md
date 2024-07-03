@@ -4,14 +4,16 @@ A collection of my implemented RL agents for games like Pacman, Lunarlander, Pon
 
 ## Covered DRL Topics
   * Q-learning + DQN
+  * Bellman Equation + Monte Carlo
   * Hyperparameter Tuning using Optuna
   * Policy Gradient
+  * DDPG & DDPGfD
   * Unity Ml Agents
-  * RND
-  * A2C for Robotics
+  * Curiosity Driven RL - Random Network Distillation(RND)
+  * Advantage Actor Critic(A2C) for Robotics
   * MultiAgent Reinforcement Learning
   * Self Play
-  * PPO
+  * Proximal Policy Optimization(PPO) with All Variants
   * Sample Factory
 
 ## Table of Implemented Agents With Algorithms & Notebooks
