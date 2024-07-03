@@ -46,6 +46,10 @@ A collection of my implemented RL agents for games like Pacman, Lunarlander, Pon
 | VizDoom (doom_health_gathering_supreme)| sample_factory                                                        | PPO                          | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-huggingface-unit-8-ii-smpfc-vizdoom-deathmatch)                     |
 | Doom Deathmatch (doom_deathmatch_bots) | sample_factory                                                        | APPO                         | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-huggingface-unit-8-ii-smpfc-vizdoom-deathmatch)                     |
 
+## Previews
+  ![Montezuma](https://www.gymlibrary.dev/_images/montezuma_revenge.gif) ![Breakout](https://www.gymlibrary.dev/_images/breakout.gif)
+
+
 ## Acknowledgements & Resources
    * [Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
    * [Thomas Simonini](https://x.com/ThomasSimonini)
