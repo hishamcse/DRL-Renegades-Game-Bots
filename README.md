@@ -1,6 +1,6 @@
 # DRL-Renegades-Game-Bots
 
-A collection of my implemented RL agents for games like Pacman, Lunarlander, Pong, SpaceInvaders, Frozenlake, Taxi, Pixelcopter, Montezuma, Soccer, VizDoom and a lot more by implementing various DRL algorithms using gym, unity-ml, pygame, sb3, rl-zoo, pandagym and sample factory libraries. A lot of agents implemented as part of this free course on DRL at HuggingFace: [Link](https://huggingface.co/learn/deep-rl-course/unit0/introduction) by [Thomas Simonini](https://x.com/ThomasSimonini)
+A collection of my implemented RL agents for games like Pacman, Lunarlander, Pong, SpaceInvaders, Frozenlake, Taxi, Pixelcopter, Montezuma, Soccer, VizDoom, Kungfu-Master and a lot more by implementing various DRL algorithms using gym, unity-ml, pygame, sb3, rl-zoo, pandagym and sample factory libraries. A lot of agents implemented as part of this free course on DRL at HuggingFace: [Link](https://huggingface.co/learn/deep-rl-course/unit0/introduction) by [Thomas Simonini](https://x.com/ThomasSimonini)
 
 ## Covered DRL Topics
   * Q-learning + DQN
@@ -16,6 +16,8 @@ A collection of my implemented RL agents for games like Pacman, Lunarlander, Pon
   * Proximal Policy Optimization(PPO) with All Variants
   * Clipped Surrogate Objective Function
   * Sample Factory
+  * Asynchronous Advantage Actor-Critic (A3C)
+  * Intrinsic Curiosity Module (ICM)
 
 ## Table of Implemented Agents
 
@@ -45,6 +47,7 @@ A collection of my implemented RL agents for games like Pacman, Lunarlander, Pon
 | LunarLander-v2                         | pytorch, gym                                                          | PPO (All Variations Scratch) | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-huggingface-unit-8-i-ppo-scratch-lunarlander)                     |
 | VizDoom (doom_health_gathering_supreme)| sample_factory                                                        | PPO                          | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-huggingface-unit-8-ii-smpfc-vizdoom-deathmatch)                     |
 | Doom Deathmatch (doom_deathmatch_bots) | sample_factory                                                        | APPO                         | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-huggingface-unit-8-ii-smpfc-vizdoom-deathmatch)                     |
+| KungFuMaster-v5                        | pytorch, gym                                                          | A3C-ICM-scratch              | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-extra-personal-adv-drl-a3c-icm-kungfu-master)
 
 ## HuggingFace Models
 Find all my traned agents at [hishamcse agents](https://huggingface.co/hishamcse)
