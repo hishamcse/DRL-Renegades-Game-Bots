@@ -1,6 +1,6 @@
 # DRL-Renegades-Game-Bots
 
-A collection of my implemented RL agents for games like Pacman, Lunarlander, Pong, SpaceInvaders, Frozenlake, Taxi, Pixelcopter, Montezuma, Soccer, VizDoom, Kungfu-Master and a lot more by implementing various DRL algorithms using gym, unity-ml, pygame, sb3, rl-zoo, pandagym and sample factory libraries. A lot of agents implemented as part of this free course on DRL at HuggingFace: [Link](https://huggingface.co/learn/deep-rl-course/unit0/introduction) by [Thomas Simonini](https://x.com/ThomasSimonini)
+A collection of my implemented RL agents for games like Pacman, Lunarlander, Pong, SpaceInvaders, Frozenlake, Taxi, Pixelcopter, Montezuma, Soccer, VizDoom, Kungfu-Master and a lot more by implementing various DRL algorithms using gym, unity-ml, pygame, sb3, rl-zoo, pandagym and sample factory libraries. A lot of agents implemented as part of this free tutorial series on DRL at HuggingFace: [Link](https://huggingface.co/learn/deep-rl-course/unit0/introduction) by [Thomas Simonini](https://x.com/ThomasSimonini). The rests were done based on various relevant resources and my ideas. I have added some links in **Acknowledgement** section below. 
 
 ## Covered DRL Topics
   * Q-learning + DQN
