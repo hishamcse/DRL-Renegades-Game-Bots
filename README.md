@@ -75,3 +75,10 @@ Find all my traned agents at [hishamcse agents](https://huggingface.co/hishamcse
    * [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
    * [Dennybritz RL](https://github.com/dennybritz/reinforcement-learning)
    * [HuggingFace Hub Python Library](https://huggingface.co/docs/huggingface_hub/index)
+
+## My DRL Projects
+You can view my **Deep Reinforcement Learning** projects
+- [DRL-Renegades-Game-Bots](https://github.com/hishamcse/DRL-Renegades-Game-Bots)
+- [Advanced-DRL-Renegades-Game-Bots](https://github.com/hishamcse/Advanced-DRL-Renegades-Game-Bots)
+- [Robo-Chess](https://github.com/hishamcse/Robo-Chess)
+- [Kaggle Notebooks on DRL](https://www.kaggle.com/syedjarullahhisham/code?tags=13313)
